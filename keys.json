@@ -1,0 +1,119 @@
+{
+  "_说明": [
+    "内层密钥表（可以任人分享、任意提交，跟账号无关）。",
+    "inner_keys：runtime + 版本号 -> 16 位内层密钥（内层密钥 = psw(8) + suffix(8)）",
+    "新密钥：python -m yyjh key crack（会自动写进来）；并入别处的表：key import <文件>"
+  ],
+  "inner_keys": [
+    {
+      "runtime": "android",
+      "version": "00073314",
+      "key": "jkimeiccpo06ewkx"
+    },
+    {
+      "runtime": "android",
+      "version": "00073315",
+      "key": "u6cgjphepo06ewkx"
+    },
+    {
+      "runtime": "android",
+      "version": "00073420",
+      "key": "n0b06b00po06ewkx"
+    },
+    {
+      "runtime": "android",
+      "version": "00073440",
+      "key": "pon1dxg7po06ewkx"
+    },
+    {
+      "runtime": "android",
+      "version": "00073302",
+      "key": "njglp5lvcgkmi4cq"
+    },
+    {
+      "runtime": "android",
+      "version": "00073645",
+      "key": "15fgt27wmeeo0wmk"
+    },
+    {
+      "runtime": "android",
+      "version": "00073659",
+      "key": "dasf34dfmeeo0wmk"
+    },
+    {
+      "runtime": "android",
+      "version": "00073661",
+      "key": "wmjhuy6dmeeo0wmk"
+    },
+    {
+      "runtime": "ios",
+      "version": "00073314",
+      "key": "jkimeiccyoqkmrtj"
+    },
+    {
+      "runtime": "ios",
+      "version": "00073315",
+      "key": "u6cgjpheyoqkmrtj"
+    },
+    {
+      "runtime": "ios",
+      "version": "00073440",
+      "key": "pon1dxg7yoqkmrtj"
+    },
+    {
+      "runtime": "ios",
+      "version": "00073420",
+      "key": "n0b06b00po06ewkx"
+    },
+    {
+      "runtime": "ios",
+      "version": "00071352",
+      "key": "15fgt27wmeeo0wmk"
+    },
+    {
+      "runtime": "ios",
+      "version": "00073661",
+      "key": "wmjhuy6dmeeo0wmk"
+    },
+    {
+      "runtime": "android",
+      "version": "00072280",
+      "key": "hjo0e3q9po06ewkx"
+    },
+    {
+      "runtime": "android",
+      "version": "00072288",
+      "key": "jkds85wepo06ewkx"
+    },
+    {
+      "runtime": "android",
+      "version": "00072294",
+      "key": "juhycd8epo06ewkx"
+    },
+    {
+      "runtime": "android",
+      "version": "00073288",
+      "key": "90qabeonpo06ewkx"
+    },
+    {
+      "runtime": "android",
+      "version": "00073460",
+      "key": "u52kw6lbyoqkmrtj"
+    },
+    {
+      "runtime": "ios",
+      "version": "00073460",
+      "key": "u52kw6lbyoqkmrtj"
+    },
+    {
+      "runtime": "ios",
+      "version": "00073492",
+      "key": "xi9iz9h4yoqkmrtj"
+    },
+    {
+      "runtime": "android",
+      "version": "00073492",
+      "key": "xi9iz9h4po06ewkx"
+    }
+  ]
+}
